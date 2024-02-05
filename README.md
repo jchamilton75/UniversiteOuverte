@@ -1,1 +1,1 @@
-# UniversiteOuverte
+# Université Ouverte
